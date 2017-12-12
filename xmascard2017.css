@@ -4,7 +4,7 @@
 }
 #xmasimg img {
    max-width: 50%;
-   height: auto;
+   max-height: 90%;
    padding-top: 5%;
     -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 20s; /* Firefox < 16 */
