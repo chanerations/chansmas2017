@@ -4,7 +4,7 @@
    text-align: center;
 }
 #xmasimg img {
-//   padding-top: 5%;
+   padding-top: 5%;
    max-width: 40%;
    max-height: auto;
    -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
