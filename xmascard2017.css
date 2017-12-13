@@ -17,7 +17,7 @@
 }
 
 @media screen and (max-width: 1024px) {
-   #cardcontainer img {max-width: 50%;}
+   #cardcontainer img {max-width: 60%;}
 }
 
 @keyframes fadein {
