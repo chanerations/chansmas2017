@@ -16,7 +16,7 @@
             animation: fadein 20s;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 479px) {
    #cardcontainer img {max-width: 60%;}
 }
 
