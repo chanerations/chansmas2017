@@ -1,5 +1,5 @@
 #cardcontainer {
-   width: 80%;
+   width: 90%;
    margin:auto;
    padding: 10px;
    text-align: center;
@@ -17,7 +17,7 @@
 }
 
 @media screen and (max-width: 599px) {
-   #cardcontainer img {max-width: 60%;}
+   #cardcontainer img {max-width: 65%;}
 }
 
 @keyframes fadein {
