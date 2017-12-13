@@ -1,11 +1,12 @@
-#xmasimg {
-   margin-top: 80px;
-   padding-top: 5%;
+#cardcontainer {
+   width: 80%;
+   margin:auto;
+   padding: 10px;
    text-align: center;
 }
-#xmasimg img {
-   padding-top: 5%;
-   max-width: 40%;
+
+#cardcontainer img {
+   max-width: 70%;
    max-height: auto;
    -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 20s; /* Firefox < 16 */
