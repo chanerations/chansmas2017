@@ -2,7 +2,7 @@
    width: 80%;
    margin:auto;
    padding: 10px;
-   text-align: center;
+   display: block;
 }
 
 #cardcontainer img {
