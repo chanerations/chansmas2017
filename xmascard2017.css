@@ -8,6 +8,7 @@
 #cardcontainer img {
    max-width: 80%;
    max-height: auto;
+   box-shadow: 10px 10px 10px lightgray;
    -webkit-animation: fadein 20s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 20s; /* Firefox < 16 */
         -ms-animation: fadein 20s; /* Internet Explorer */
