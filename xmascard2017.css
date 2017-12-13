@@ -16,6 +16,10 @@
             animation: fadein 20s;
 }
 
+@media screen and (max-width: 1024px) {
+   #cardcontainer img {max-width: 50%;}
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
